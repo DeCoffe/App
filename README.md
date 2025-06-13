@@ -41,7 +41,7 @@ The dataset consists of 4 classes representing 3 types of common coffee leaf dis
 
 ## App
 
-The application has been deployed named app-release.apk can be installed on Android to detect coffee leaf diseases.
+The application has been deployed named app-release.apk can be installed on Android to detect coffee leaf diseases ([https://drive.google.com/file/d/1UtcFKK8JPE0LXNrlNXg_oVoYK6sOHBU1/view?usp=drive_link](https://drive.google.com/file/d/1UtcFKK8JPE0LXNrlNXg_oVoYK6sOHBU1/view?usp=drive_link)).
 
 ## Installation
 
